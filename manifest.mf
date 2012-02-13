@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: net.skyebook.viewportcolorchooser
+OpenIDE-Module-Install: net/skyebook/viewportcolorchooser/Installer.class
+OpenIDE-Module-Localizing-Bundle: net/skyebook/viewportcolorchooser/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
